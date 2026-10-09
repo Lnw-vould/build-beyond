@@ -1,0 +1,14 @@
+title: BUILD BEYOND
+description: Ideas on freedom, business, AI and a world beyond borders.
+url: "https://lnw-vould.github.io"
+baseurl: "/build-beyond"
+markdown: kramdown
+permalink: /essays/:title/
+timezone: Asia/Shanghai
+encoding: utf-8
+exclude:
+  - README.md
+  - BUILD-BEYOND-SETUP.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor

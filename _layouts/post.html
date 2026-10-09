@@ -1,0 +1,4 @@
+---
+layout: default
+---
+<article class="post"><div class="eyebrow">ESSAYS / {{ page.date | date: '%Y.%m.%d' }} · {{ page.category | default: 'IDEAS' | upcase }}</div><h1>{{ page.title | escape }}</h1>{% if page.subtitle %}<p class="post-subtitle">{{ page.subtitle | escape }}</p>{% endif %}<div class="post-rule"></div><div class="prose">{{ content }}</div><div class="post-end">✳</div><a class="back-link" href="{{ '/archive/' | relative_url }}">← All essays</a></article>

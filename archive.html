@@ -1,0 +1,6 @@
+---
+layout: default
+title: Essays
+permalink: /archive/
+---
+<section class="page-intro"><div class="eyebrow">THE ARCHIVE</div><h1>Essays<span class="brand-dot">.</span></h1><p>思考、观察与持续修正中的认知地图。</p></section><section class="section"><div class="essay-list">{% for post in site.posts %}<a class="essay" href="{{ post.url | relative_url }}"><span class="essay-date">{{ post.date | date: '%Y.%m.%d' }}</span><span class="essay-title">{{ post.title }}</span><span class="essay-arrow">↗</span></a>{% endfor %}</div></section>

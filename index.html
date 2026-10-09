@@ -1,0 +1,7 @@
+---
+layout: default
+title: Home
+---
+<section class="hero"><div class="eyebrow">INDEPENDENT THINKING · GLOBAL PERSPECTIVE</div><h1>Think beyond<br><em>the given.</em></h1><p>关于自由、商业、人工智能与全球化的独立思考。<br>Ideas on freedom, business, AI, and the systems shaping our future.</p><a class="text-link" href="{{ '/archive/' | relative_url }}">Explore the essays <span>↗</span></a></section>
+<section class="section"><div class="section-heading"><h2>Selected writing</h2><span>01 — THE ARCHIVE</span></div><div class="essay-list">{% for post in site.posts limit: 8 %}<a class="essay" href="{{ post.url | relative_url }}"><span class="essay-date">{{ post.date | date: '%Y.%m.%d' }}</span><span class="essay-title">{{ post.title }}</span><span class="essay-arrow">↗</span></a>{% endfor %}</div><a class="text-link" href="{{ '/archive/' | relative_url }}">View all writing <span>→</span></a></section>
+<section class="manifesto"><div class="eyebrow">THE IDEA</div><p>We are not here to inherit someone else's answers. We are here to question assumptions, build our own systems, and move beyond the boundaries we were given.</p><span>— BUILD BEYOND</span></section>
