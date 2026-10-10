@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1190" viewBox="0 0 1200 1190" role="img" aria-labelledby="title desc">
+<title id="title">2010 年乔布斯 Top 100 战略思维导图</title>
+<desc id="desc">中心节点连接六个分支：业务重分类、云中枢迁移、补齐与跨越、生态协同、组织执行、草稿边界。底部虚线框是 AI 时代个人推论，非原文。</desc>
+<style>
+svg{--bg:#f9f8f5;--ink:#222320;--muted:#62655e;--line:#d8d8d0;--accent:#a75f43;--card:#fffdfa;--tint:#eee5de;background:var(--bg)}
+text{font-family:'Microsoft YaHei','Noto Sans SC',sans-serif;fill:var(--ink)}
+.muted{fill:var(--muted)}.accent{fill:var(--accent)}.card{fill:var(--card);stroke:var(--line)}.link{fill:none;stroke:var(--accent);stroke-width:2;opacity:.55}
+@media(prefers-color-scheme:dark){svg{--bg:#181a19;--ink:#eae8e2;--muted:#b4b4ac;--line:#494b46;--accent:#d49a7c;--card:#212422;--tint:#352c27}}
+</style>
+<rect width="1200" height="1190" fill="var(--bg)"/>
+<text x="40" y="48" font-size="15" letter-spacing="3" class="accent">BUILD BEYOND / STRATEGY NOTES</text>
+<text x="40" y="101" font-size="37" font-weight="600">2010 年，乔布斯如何预判下一个时代？</text>
+<text x="40" y="140" font-size="20" class="muted">Top 100 - A · 2010.10.24 · 根据四页原始 PDF 整理</text>
+
+<path class="link" d="M480 545 H455 V285 H430"/>
+<path class="link" d="M720 545 H745 V285 H770"/>
+<path class="link" d="M480 545 H455 V550 H430"/>
+<path class="link" d="M720 545 H745 V550 H770"/>
+<path class="link" d="M480 545 H455 V815 H430"/>
+<path class="link" d="M720 545 H745 V815 H770"/>
+<rect x="480" y="476" width="240" height="138" rx="16" fill="var(--tint)" stroke="var(--accent)" stroke-width="2"/>
+<text x="600" y="518" text-anchor="middle" font-size="24" font-weight="600">Post-PC 战略</text>
+<text x="600" y="554" text-anchor="middle" font-size="19">识别新的中心</text>
+<text x="600" y="585" text-anchor="middle" font-size="19">连接产品与行动</text>
+<rect class="card" x="40" y="180" width="390" height="210" rx="14"/>
+<text x="62" y="215" font-size="15" class="accent">01 / PDF 第 1 页</text>
+<text x="62" y="257" font-size="27" font-weight="600">重新理解业务</text>
+<text x="62" y="299" font-size="20" class="muted">先问组织与业务结构</text>
+<text x="62" y="332" font-size="20" class="muted">合并手机、平板重画图表</text>
+<text x="62" y="365" font-size="20" class="muted">66% 为草稿所述营收口径</text>
+<rect class="card" x="770" y="180" width="390" height="210" rx="14"/>
+<text x="792" y="215" font-size="15" class="accent">02 / PDF 第 1—2 页</text>
+<text x="792" y="257" font-size="27" font-weight="600">数字中枢迁移</text>
+<text x="792" y="299" font-size="20" class="muted">PC → 云；PC 成为客户端</text>
+<text x="792" y="332" font-size="20" class="muted">移动设备 + 通信 + 应用 + 云</text>
+<text x="792" y="365" font-size="20" class="muted">警惕过久依恋旧范式</text>
+<rect class="card" x="40" y="445" width="390" height="210" rx="14"/>
+<text x="62" y="480" font-size="15" class="accent">03 / PDF 第 2—3 页</text>
+<text x="62" y="522" font-size="27" font-weight="600">补齐与跨越</text>
+<text x="62" y="564" font-size="20" class="muted">iOS：补短板，争取 Siri 跨越</text>
+<text x="62" y="597" font-size="20" class="muted">iPad：保持迭代领先</text>
+<text x="62" y="630" font-size="20" class="muted">MobileMe：追赶云服务</text>
+<rect class="card" x="770" y="445" width="390" height="210" rx="14"/>
+<text x="792" y="480" font-size="15" class="accent">04 / PDF 第 2—4 页</text>
+<text x="792" y="522" font-size="27" font-weight="600">生态协同与锁定</text>
+<text x="792" y="564" font-size="20" class="muted">跨设备连接内容与账户</text>
+<text x="792" y="597" font-size="20" class="muted">云服务、商店与客厅入口</text>
+<text x="792" y="630" font-size="20" class="muted">协同便利也提高迁移成本</text>
+<rect class="card" x="40" y="710" width="390" height="210" rx="14"/>
+<text x="62" y="745" font-size="15" class="accent">05 / PDF 第 2—4 页</text>
+<text x="62" y="787" font-size="27" font-weight="600">组织执行</text>
+<text x="62" y="829" font-size="20" class="muted">负责人、演示、路线与成本</text>
+<text x="62" y="862" font-size="20" class="muted">扩展规模与老用户迁移</text>
+<text x="62" y="895" font-size="20" class="muted">将方向拆成可追问的工作</text>
+<rect class="card" x="770" y="710" width="390" height="210" rx="14"/>
+<text x="792" y="745" font-size="15" class="accent">06 / 全文核对提醒</text>
+<text x="792" y="787" font-size="27" font-weight="600">保留草稿边界</text>
+<text x="792" y="829" font-size="20" class="muted">这是判断与计划，不是成果</text>
+<text x="792" y="862" font-size="20" class="muted">一亿用户是规划目标</text>
+<text x="792" y="895" font-size="20" class="muted">问号表示仍待讨论的问题</text>
+<path d="M600 614 V963" class="link" stroke-dasharray="7 7"/>
+<rect x="40" y="965" width="1120" height="160" rx="14" fill="var(--card)" stroke="var(--accent)" stroke-width="2" stroke-dasharray="8 7"/>
+<text x="66" y="1002" font-size="16" letter-spacing="1" class="accent">AI 时代延伸 / 个人推论，非乔布斯原意</text>
+<text x="66" y="1044" font-size="27" font-weight="600">从操作应用到协调任务？一个需要验证的假设。</text>
+<text x="66" y="1084" font-size="21" class="muted">验证完成率、返工与成本；同时保留用户授权、复核、撤回与迁移的能力。</text>
+<text x="40" y="1163" font-size="16" class="muted">来源：Top 100 - A，证物 489.245—489.248。分支标题为本文整理；实线为史料区域，虚线为个人推论。</text>
+</svg>
